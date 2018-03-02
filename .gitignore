@@ -1,5 +1,5 @@
 **/__pycache__
 **/.vscode/
-
+**/*.py[c]
 test.py
-fresh_tomatoes.html
+**/fresh_tomatoes.html
