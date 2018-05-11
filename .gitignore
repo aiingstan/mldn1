@@ -3,3 +3,4 @@
 **/*.py[c]
 test.py
 **/fresh_tomatoes.html
+*.zip
